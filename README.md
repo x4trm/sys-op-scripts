@@ -1,4 +1,4 @@
-# sys-op-skrypty
+# sys-op-scripts
 
 ### Bash scripts 
 Subject: Operating System  
